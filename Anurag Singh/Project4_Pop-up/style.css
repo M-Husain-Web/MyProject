@@ -1,0 +1,55 @@
+
+body {
+    margin: 0;
+    background-color: #decdac;
+}
+
+button {
+    
+    padding: 5px;
+    color: black;
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-weight: 400;
+    cursor: pointer;
+
+}
+
+.popUp {
+height: 200px;
+width: 400px;
+background-color: white;
+border-radius: 32px;
+position: fixed;
+/* margin: auto; */
+/* inset: 0; */
+box-shadow: 0 5px 4px 2px rgb(0, 0, 0, 0.3) ;
+transform: translate(-50% , -50%) scale(0);
+transition: all 0.2s ease-in-out;
+top: 0;
+left: 0;
+padding: 8px;
+font-family: cursive;
+/* display: none; */
+}
+
+.popUp.open {
+
+    /* display: block; */
+    transform: scale(1);
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% , -50%) scale(1);
+}
+
+.cross_icon {
+    font-size: 48px;
+    font-weight: 700;
+    position: absolute;
+    right: 16px;
+    top: 5px;
+    cursor: pointer;
+    font-family: serif;
+}
+

@@ -1,0 +1,85 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+nav
+{
+    height: 52px;
+    background-color: #0f1111;
+    /* border: 5px solid white; */
+    padding-top: 15px;
+    
+ 
+}
+#amazon_logo
+{
+    font-size: 28px;
+    color: #f08804;
+    margin-right: 200px;
+    
+}
+a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    margin-right: 200px;
+    
+    
+    
+}
+
+button
+{
+    background-color: #f08804;
+    color: white; 
+}
+.div
+{
+    width: 120px;
+    height: 120px;
+    /* border: 5px solid white; */
+    display: inline-block;
+    margin-right: 100px;
+    
+}
+#div1
+{
+    background-color: rgba(0, 255, 0, .5);
+}
+#div2
+{
+    background-color: rgba(255, 0, 0, .5);
+}
+#div3
+{
+    background-color: rgba(0, 0, 255, .5);
+}
+#div4
+{
+    background-color: rgba(150, 0, 0, .5);
+}
+#div5
+{
+    background-color: rgba(0, 150, 0, .5);
+}
+#div6
+{
+    background-color: rgba(0, 0, 150, .5);
+}
+main
+{
+    margin-top: 100px;
+}
+footer
+{
+    height: 30px;
+    text-align: center;
+    font-weight: 200;
+    font-style: oblique;
+    background-color: #0f1111;
+    color: aliceblue;
+    margin-top: 130px;
+    padding-top: 10px;
+}

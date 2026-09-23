@@ -1,0 +1,28 @@
+*
+{
+margin: 0;
+padding: 0;
+}
+
+div
+{
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    background-image: url("Splach_image.jpg");
+    background-size: cover;
+    position:fixed;
+    right: 0px;
+    top: 20px;
+    font-size: larger;
+    font-style: italic;
+    color: white;
+    
+    
+
+}
+p{
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif;
+}
+

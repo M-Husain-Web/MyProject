@@ -1,0 +1,26 @@
+
+.app_name{
+  font-weight: 1200;
+  font-size: 90px;
+  text-decoration: underline;
+  color: blue;
+  margin: 10px;
+  margin-bottom: 30px;
+}
+
+.item_contailer{
+  text-align: left;
+}
+.Todo_container
+{
+  text-align: left;
+}
+
+.my_row{
+  margin: 10px 5px;
+
+}
+
+.my_button{
+  min-width: 80px;
+}

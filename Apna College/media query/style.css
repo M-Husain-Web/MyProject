@@ -1,0 +1,43 @@
+/* div
+{
+width: 100px;
+height: 100px;
+background-color: green;
+
+}
+@media (min-width : 400px) and (max-width : 600px)
+{
+    div
+    {
+      background-color: red;
+    }
+} */
+ .button
+ {
+    background-color: aquamarine;
+    color: black;
+    
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    transform: scale(4);
+    border-radius: 4px;
+  
+    
+ }
+ div :hover
+ {
+   background-color: red;
+   color: white;
+   size: 20px;
+   
+  
+   
+   
+
+ }
+ div :active
+ {
+    background-color: greenyellow;
+    color: black;
+ }

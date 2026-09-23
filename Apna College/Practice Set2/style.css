@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+/* Q1 */
+h1
+{
+    text-transform:capitalize;
+    text-align: center;
+    background-color: greenyellow;
+}
+/* Q2 */
+p
+{
+ font-family: 'Times New Roman';   
+}
+/* Q3
+ */
+ #Outer
+ {
+font-size: 25px;
+background-color: aqua;
+ }
+ #inner
+ {
+font-size: 10px;
+background-color: aquamarine;
+ }

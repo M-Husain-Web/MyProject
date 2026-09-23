@@ -1,0 +1,25 @@
+
+body
+{
+    text-align: center;
+}
+
+
+button
+{
+    
+   font-family: 'Roboto', 'sans-serif' ;
+   background-color: cyan;
+   font-weight:600;
+   padding: 10px 16px;
+   border: 1px solid gray;
+   border-radius: 4px;
+   cursor: pointer;
+   
+}
+button:hover {
+    background-color: rgb(80, 244, 16);
+  }
+
+   
+

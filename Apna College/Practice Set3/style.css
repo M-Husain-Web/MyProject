@@ -1,0 +1,48 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+/* Q1 */
+/* div
+/* {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+     
+} */
+/* Q2 */
+nav
+{
+    height: 60px;
+    background-color: #0f1111;
+    border: 5px;
+    border-color: white;
+    padding-top: 20px;
+    
+ 
+}
+#amazon_logo
+{
+    font-size: 28px;
+    color: #f08804;
+    margin-right: 200px;
+    
+}
+a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 200px;
+    
+    
+    
+}
+
+button
+{
+    background-color: #f08804;
+    color: white; 
+}

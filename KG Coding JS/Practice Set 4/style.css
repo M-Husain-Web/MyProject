@@ -1,0 +1,27 @@
+#div1
+{
+    width: 100px;
+    height: 35px;
+    border: 3px ;
+    border-radius: 10px;
+    background-color: rgb(134, 247, 97);
+
+}
+#div2
+{
+    width: 150px;
+    height: 35px;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-transform: uppercase;
+  
+}
+#div3
+{
+    width: 150px;
+    height: 35px;
+    border: 3px ;
+    border-radius: 10px;
+    background-color: rgb(134, 247, 97);
+
+}
